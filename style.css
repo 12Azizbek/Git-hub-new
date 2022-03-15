@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #150a2e;
+}
+h1{
+    margin-top: 200px;
+    font-size: 100px;
+    color: #f4f4f4;
+    text-shadow: 5px 5px 20px #fff;
+}
